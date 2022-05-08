@@ -23,7 +23,7 @@
 ✔️ Contact Info\
 ✔️ Resume
 
-To view a live example, **[click here](https://salahabdinoor.github.io/)**
+To view a live example, **[click here](https://colabebzi.github.io/pedramkhatibi.github.io/)**
 
 ## Tools Used 🛠️
 
